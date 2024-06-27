@@ -1,5 +1,5 @@
-TrelloBoard is a Spring REST API App that functions like a Trello.
+TrelloBoard has multiple REST APIs that can be used to build functionalities which is siilar to Trello. Trello is a project management tool that helps users organize, plan, sort, and collaborate on work.
 
-The application allows users to create lists and add cards to them. Users can drag and drop to change the order of the lists and cards, and they can also move cards from one list to another.
+The application allows users to create lists and add cards to them.
 
 Technologies : Java 17, SpringBoot, MySQL
